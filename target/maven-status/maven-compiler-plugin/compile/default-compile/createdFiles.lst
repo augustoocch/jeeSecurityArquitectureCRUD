@@ -1,0 +1,14 @@
+service/PersonServiceLocal.class
+web/PersonaBean.class
+datos/UserImpl.class
+service/PersonServiceImpl.class
+datos/PersonaDaoImpl.class
+service/UserServiceLocal.class
+service/UserServiceImpl.class
+domain/Usuario.class
+service/PersonaServiceWs.class
+service/PersonServiceRemote.class
+web/ConfigBean.class
+datos/UserDao.class
+datos/PersonaDao.class
+domain/Persona.class
